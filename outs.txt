@@ -1,0 +1,6 @@
+data.txt 5
+data2.txt 13
+data3.txt 
+data5.txt 12
+data6.txt 9
+data12.txt 9
